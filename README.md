@@ -46,6 +46,8 @@ Data is stored in the folder called "Stocks"
 Our dataset may not describe too many features, but they are very descriptive, and a lot of times we end up dropping features that are not correlated anyway, so this may be to our advantage. The features are as follows: Date, Open, High, Low, Close, Volume, OpenInt.
 
 #### 2. Integrate the sources by either ETL or an ELT process
-- Underway - 
+Data is reformatted and presented in the BigProject Jupyter Notebook File. 
+Simple visualization is constructed, along with a Standard Average methodology comparison. 
 
 #### 3. Design a Data Story or Data Processing Scenario 
+- TBC - 
